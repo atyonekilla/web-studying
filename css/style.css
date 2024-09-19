@@ -1,6 +1,10 @@
 body{
-    background-color: grey;
+    background-color: rgb(68, 68, 68);
     color: white;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 .h1{
     position: fixed;
